@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table{
+    border-collapse: collapse;
+    border: 2px solid rgb(10 10 100 );
+    
+}
+th,td{
+    border: 1px solid rgb(160 160 160);
+    padding: 8px 6px;
+    text-align: center;
+}
+.caption{
+    caption-side: bottom;
+    padding: 10px;
+}
+.weekend{
+    background-color: lightcoral;
+
+}
+.weekly{
+    background-color: aquamarine;
+}
